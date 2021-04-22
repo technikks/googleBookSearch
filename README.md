@@ -2,7 +2,7 @@
 
 
 ## Deployed URL
-Coming Soon :) 
+(https://google-books-search-gw-hw21.herokuapp.com/)
 
 
 ## Description
